@@ -17,5 +17,5 @@
 [<img align="left" alt="Kamron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/LWKamron
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.instagram.com/westkamron
 [linkedin]: https://linkedin.com/in/kamron-leon-west
